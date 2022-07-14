@@ -1,0 +1,4 @@
+feature : login
+>> input:name
+>> input:email
+>> input:password
